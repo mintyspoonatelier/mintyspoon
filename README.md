@@ -1,2 +1,2 @@
 # mintyspoon
-minty's blog
+minty's blog (hello world)!
