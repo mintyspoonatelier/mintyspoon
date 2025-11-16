@@ -16,10 +16,10 @@ timezone: America/New_York
 
 title: minty # the main title
 
-tagline: i make things # it will display as the subtitle
+tagline: miniature artist # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  this is a blog
+  mintyspoon's main + side blog
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -132,7 +132,7 @@ comments:
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
   self_host:
-    enabled: # boolean, keep empty means false
+    enabled: true # boolean, keep empty means false
     # specify the Jekyll environment, empty means both
     # only works if `assets.self_host.enabled` is 'true'
     env: # [development | production]
